@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mateo Niksic! <img align="right" src="https://komarev.com/ghpvc/?username=mateoniksic&style=for-the-badge" />
 
-- You can reach me via [LinkedIn](https://www.linkedin.com/in/mateoniksic/) or [Email](mailto:xmateoniksic+business@gmail.com).
+- You can reach me via [LinkedIn](https://www.linkedin.com/in/mateoniksic/) or [Email](xmateoniksic+business@gmail.com).
 
 ### ⭐ Featured projects
 * StoryShare ([Github](https://github.com/mateoniksic/project-storyshare)) ([Live preview](https://mateoniksic.pythonanywhere.com/))
