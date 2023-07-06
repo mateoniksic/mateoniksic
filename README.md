@@ -88,10 +88,10 @@ Other
 <br/>
 
 <div>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=mateoniksic&show_icons=true&hide_title=true&theme=dark" />
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=mateoniksic&show_icons=true&hide_title=true&theme=dark" />
   <br/>
   <br/>
-  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateoniksic&show_icons=true&theme=dark" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateoniksic&show_icons=true&theme=dark" />
 </div>
 
 </div>
