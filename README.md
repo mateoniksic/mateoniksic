@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mateo Niksic! <img align="right" src="https://komarev.com/ghpvc/?username=mateoniksic&style=for-the-badge" />
+# 👋 Hi, I'm Mateo Niksic. <img align="right" src="https://komarev.com/ghpvc/?username=mateoniksic&style=for-the-badge" />
 
 - You can reach me via [LinkedIn](https://www.linkedin.com/in/mateoniksic/) or xmateoniksic+business@gmail.com.
 
