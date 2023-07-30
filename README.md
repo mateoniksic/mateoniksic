@@ -1,20 +1,18 @@
 # 👋 Hi, I'm Mateo Niksic. <img align="right" src="https://komarev.com/ghpvc/?username=mateoniksic&style=for-the-badge" />
 
-- You can reach me via [LinkedIn](https://www.linkedin.com/in/mateoniksic/) or xmateoniksic+business@gmail.com.
-
 ### ⭐ Featured projects
-* StoryShare ([Github](https://github.com/mateoniksic/project-storyshare)) ([Live preview](https://mateoniksic.pythonanywhere.com/))
-* PolymerFlame ([Github](https://github.com/mateoniksic/project-polymer-flame)) ([Live preview](https://polymerflame.webflow.io/))
-* SleekNotebooks ([Github](https://github.com/mateoniksic/project-sleek-notebooks)) ([Live preview](https://sleek-notebooks.netlify.app/))
-* Finance Manager ([Github](https://github.com/mateoniksic/project-finance-manager)) ([Live preview](https://www.figma.com/proto/0c9RVZ7ENMPhWlGObBq3Vm/Mobile-App-%E2%80%A2-Finance-Manager?page-id=1115%3A3358&node-id=1115-3439&viewport=-1118%2C-8540%2C0.6&scaling=min-zoom&starting-point-node-id=1115%3A3365))
+* StoryShare ([Codebase](https://github.com/mateoniksic/project-storyshare)) ([Live preview](https://mateoniksic.pythonanywhere.com/))
+* PolymerFlame ([Codebase](https://github.com/mateoniksic/project-polymer-flame)) ([Live preview](https://polymerflame.webflow.io/))
+* SleekNotebooks ([Codebase](https://github.com/mateoniksic/project-sleek-notebooks)) ([Live preview](https://sleek-notebooks.netlify.app/))
+* Finance Manager ([Codebase](https://github.com/mateoniksic/project-finance-manager)) ([Live preview](https://www.figma.com/proto/0c9RVZ7ENMPhWlGObBq3Vm/Mobile-App-%E2%80%A2-Finance-Manager?page-id=1115%3A3358&node-id=1115-3439&viewport=-1118%2C-8540%2C0.6&scaling=min-zoom&starting-point-node-id=1115%3A3365))
 
-### 🔍 Stats & Facts
 
+<br>
 <div align="left">
 
 <table>
 <tr>
-  <th colspan="2">I have experience working with...</th>
+  <th colspan="2">Experience working with...</th>
 </tr>
 <!-- <tr>
 <th> Tech </th>
@@ -27,14 +25,6 @@ Interface Design
 </td>
 <td>
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-</td>
-</tr>
-
-<tr>
-<td>
-Style
-</td>
-<td>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
@@ -69,6 +59,7 @@ Databases
 </td>
 <td>
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </td>
 </tr>
