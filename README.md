@@ -1,11 +1,16 @@
 # 👋 Hi, I'm Mateo Niksic. <img align="right" src="https://komarev.com/ghpvc/?username=mateoniksic&style=for-the-badge" />
 
 ### ⭐ Featured projects
+* UntitledCRM ([Codebase](https://github.com/mateoniksic/project-untitled-crm)) ([Live preview](https://project-untitled-crm.vercel.app/))
 * StoryShare ([Codebase](https://github.com/mateoniksic/project-storyshare)) ([Live preview](https://mateoniksic.pythonanywhere.com/))
+
+### 👁️‍🗨️ Other projects
+
+* Linux ([Codebase](https://github.com/mateoniksic/project-linux-os)) ([Live preview](https://replit.com/@mateoniksic/Operating-Systems?v=1))
+* Docker ([Codebase](https://github.com/mateoniksic/project-docker))
 * PolymerFlame ([Codebase](https://github.com/mateoniksic/project-polymer-flame)) ([Live preview](https://polymerflame.webflow.io/))
 * SleekNotebooks ([Codebase](https://github.com/mateoniksic/project-sleek-notebooks)) ([Live preview](https://sleek-notebooks.netlify.app/))
 * Finance Manager ([Codebase](https://github.com/mateoniksic/project-finance-manager)) ([Live preview](https://www.figma.com/proto/0c9RVZ7ENMPhWlGObBq3Vm/Mobile-App-%E2%80%A2-Finance-Manager?page-id=1115%3A3358&node-id=1115-3439&viewport=-1118%2C-8540%2C0.6&scaling=min-zoom&starting-point-node-id=1115%3A3365))
-
 
 <br>
 <div align="left">
